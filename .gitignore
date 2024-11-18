@@ -1,4 +1,3 @@
-.env
-.users.db
+users.db
 __pycache__
  env
